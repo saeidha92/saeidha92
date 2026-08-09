@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Saeid+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Industrial+Automation+%7C+PLC+Programmer;M.Sc.+in+Electrical+Engineering" alt="Typing SVG" />
 </a>
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:0D1117&height=180&section=header&text=Saeid%20Hasan%20Abadi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Django%20%7C%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2EA043,100:0D1117&text=Saeid%20Hasan%20Abadi&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Electrical%20Engineer&descSize=18&descAlignY=58)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2EA043,100:0D1117&text=Saeid%20Hasan%20Abadi&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Electrical%20Engineer&descSize=18&descAlignY=58"/>
 
 </div>
 
