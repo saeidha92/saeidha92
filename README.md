@@ -75,8 +75,7 @@
 
 <div align="center">
 
-<!-- This animated snake is generated automatically by a GitHub Action -->
-<!-- See setup instructions below to activate it -->
+
 <img src="https://raw.githubusercontent.com/saeidha92/saeidha92/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 </div>
