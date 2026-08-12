@@ -50,14 +50,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeidha92&theme=github-dark-blue&hide_border=true" width="48%" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeidha92&layout=compact&theme=github_dark&hide_border=true" width="50%" />
-
-</div>
-
 ---
 
 ### 🔥 Contribution Graph
